@@ -1,4 +1,6 @@
 # --- Basic options --- #
+url:"https://sangsang.github.io"
+baseUrl:""
 
 # Name of website
 title: My website
