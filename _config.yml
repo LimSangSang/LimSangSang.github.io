@@ -1,7 +1,5 @@
 # --- Basic options --- #
-remote_theme: daattali/beautiful-jekyll
-url: "https://sangsang.github.io"
-baseurl: ""
+
 
 
 # Name of website
