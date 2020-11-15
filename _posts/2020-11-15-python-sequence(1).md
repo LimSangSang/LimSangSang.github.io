@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Python Sequense(1)
-subtitle: Each post also has a subtitle
+title: Python Sequence(1)
+subtitle: sequence type, list comprehension, generator, copy
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [python, sequense]
+tags: [python, sequence]
 comments: true
 ---
 
