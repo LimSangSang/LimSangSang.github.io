@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Python] 시퀀스
+title: Python Sequense(1)
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -77,7 +77,8 @@ print([chr(s) for s in code_list4])
 
 ## Generator?
 
-generator는 간단하게 설명하면 iterator를 생성해주는 function이고, iterator는 next()메소드를 이용해 데이터를 순차적으로 접근이 가능하게 하는 object입니다. 파이썬에서 성능 및 효율적으로 코드를 작성하기 위해 제네레이터 패턴을 많이 사용합니다. 배열이나 리스트와 같은 반복가능한 연속적인 값들을 생성해내는 패턴이고 가장 중요한 점은 모든 값을 포함하여 반환하는 대신 호출할 때마다 한 개의 값을 리턴합니다. 때문에 아주 작은 메모리로 효율적 대용량 반복가능한 구조를 순회할 수 있고 메모리 유지가 되지 않습니다.  
+generator는 간단하게 설명하면 iterator를 생성해주는 function이고, iterator는 next()메소드를 이용해 데이터를 순차적으로 접근이 가능하게 하는 object입니다. 파이썬에서 성능 및 효율적으로 코드를 작성하기 위해 제네레이터 패턴을 많이 사용합니다. 배열이나 리스트와 같은 반복가능한 연속적인 값들을 생성해내는 패턴이고 가장 중요한 점은 모든 값을 포함하여 반환하는 대신 호출할 때마다 한 개의 값을 리턴합니다. 때문에 아주 작은 메모리로 효율적 대용량 반복가능한 구조를 순회할 수 있고 메모리 유지가 되지 않습니다.
+
 결국 generator는 다음에 내가 반환해야 하는 값만 가지고 있다는 뜻!
 
 https://docs.python.org/ko/3/library/array.html
