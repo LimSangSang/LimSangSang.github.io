@@ -40,7 +40,7 @@ chars = '+_)(*&^%$#@!'
 
 ## List Comprehension
 
-List Comprehension은 쉽게 말해 리스트를 짧게 만들 수 있는 파이썬의 기능이다.
+List Comprehension은 쉽게 말해 리스트를 짧게 만들 수 있는 파이썬의 기능입니다.
 
 ```python
 for s in chars:
