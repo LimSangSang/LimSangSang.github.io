@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Sequence(2)
-subtitle: sequence type, list comprehension, generator, copy
+subtitle: packing, unpacking, mutable, immutable, sort, sorted
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [python, sequence]
