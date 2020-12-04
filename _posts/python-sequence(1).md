@@ -2,7 +2,6 @@
 layout: post
 title: Python Sequence(1)
 subtitle: sequence type, list comprehension, generator, copy
-gh-repo: daattali/beautiful-jekyll
 tags: [python, sequence]
 comments: true
 ---

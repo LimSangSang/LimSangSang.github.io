@@ -2,7 +2,6 @@
 layout: post
 title: Python Sequence(2)
 subtitle: packing, unpacking, mutable, immutable, sort, sorted
-gh-repo: daattali/beautiful-jekyll
 tags: [python, sequence]
 comments: true
 ---
