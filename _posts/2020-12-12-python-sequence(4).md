@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Sequence(5)
+title: Python Sequence(4)
 subtitle: MappingProxyType, frozenset, dis, dictionary, set
 tags: [python, sequence, MappingProxyType, frozenset, dis, dictionary, set]
 gh-repo: daattali/beautiful-jekyll
