@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Python Sequence(3)
-subtitle: packing, unpacking, mutable, immutable, sort, sorted
-tags: [python, sequence]
+subtitle: hashtable, setdefault
+tags: [python, sequence, hashtable, setdefault, dictionary, set]
 comments: true
 ---
 
@@ -16,7 +16,7 @@ comments: true
 ![hashtable](../assets/img/hash_table.png)
 위 사진을 보면 key인 'John Smith', 'Lisa Smith', 'Sandra Dee'가 해쉬 함수를 통해 숫자로 변경되고, 생성된 해쉬 주소값을 통해 value가 저장이 됩니다.
 
-하지만 파이썬에서는 Dictonary가 HashTable 구조이기 때문에 따로 구현할 필요가 없습니다. 따라서 Dictonary의 키도 해쉬 함수로 생성되고, Dictonary의 순서는 고정되지 않습니다.
+하지만 파이썬에서는 dictionary가 HashTable 구조이기 때문에 따로 구현할 필요가 없습니다. 따라서 dictionary의 키도 해쉬 함수로 생성되고, dictionary의 순서는 고정되지 않습니다.
 
 이제 코드 예시로 확인해보겠습니다.
 

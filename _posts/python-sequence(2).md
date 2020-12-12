@@ -2,7 +2,7 @@
 layout: post
 title: Python Sequence(2)
 subtitle: packing, unpacking, mutable, immutable, sort, sorted
-tags: [python, sequence]
+tags: [python, sequence, packing, unpacking, mutable, immutable, sort, sorted]
 comments: true
 ---
 
